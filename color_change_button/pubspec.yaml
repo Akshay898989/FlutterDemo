@@ -1,6 +1,7 @@
 name: color_change_button
 description: "A new Flutter package project."
 version: 0.0.1
+publish_to: 'https://pub.dev'
 author: Akshay <akshay.gupta8989@gmail.com>
 homepage: https://github.com/Akshay898989/FlutterDemo
 repository: https://github.com/Akshay898989/FlutterDemo
